@@ -14,3 +14,5 @@
 ---
 
 <img align="left" alt="Sookeyy-12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sookeyy-12&theme=dark&show_icons=true"/>
+
+<img align="right" alt="Sookeyy-12's Languages" src="https://github-readme-stats.vercel.app/api?username=Sookeyy-12&show_icons=true&theme=dark"/>
