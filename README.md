@@ -10,3 +10,7 @@
 ### Connect with me:
 - Discord: Sookeyy#0465
 - Instagram: so.okeyy
+
+---
+
+<img align="left" alt="Sookeyy-12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sookeyy-12&show_icons=true&hide_border=true" />
