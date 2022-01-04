@@ -4,11 +4,11 @@
 - 🔭 I am currently working on a simple Discord Bot.
 - 🌱 I’m currently learning Python. 
 - 👀 I’m looking for some friends who share similar interests.
-- ✔️ 2021 Goals: Learn Python (and more...)
+- ✔️ 2022 Goals: Learn Python (and more...)
 - ⚡ Fun fact: I love to play guitar!
 
 ### Connect with me:
-- Discord: Sookeyy#0465
+- Discord: Sookeyy#5686
 - Instagram: so.okeyy
 
 ---
