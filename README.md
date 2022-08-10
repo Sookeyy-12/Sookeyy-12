@@ -1,14 +1,14 @@
 ### Hello!👋 I am Suket Kamboj
 
-## I am a High School student and a JEE Aspirant 
-- 🔭 I am currently working on a simple Discord Bot.
-- 🌱 I’m currently learning Python. 
-- 👀 I’m looking for some friends who share similar interests.
-- ✔️ 2022 Goals: Learn Python (and more...)
-- ⚡ Fun fact: I love to play guitar!
+## whAt chu doin herehuh huehuehue !!! 
+- 🔭 currently ded
+- 🌱 I’m currently learning nothin :ded:. 
+- 👀 I’m looking for some friends (not relally) who share similar interests (nawh).
+- ✔️ 2022 Goals: wow
+- ⚡ Fun fact: You dumb!
 
 ### Connect with me:
-- Discord: Sookeyy#5686
+- Discord: Sookeyy#0130
 - Instagram: so.okeyy
 
 ---
