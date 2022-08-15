@@ -1,11 +1,12 @@
-### Hello!👋 I am Suket Kamboj
+![abtme](https://user-images.githubusercontent.com/82956207/184708354-820f37cc-e977-4976-802f-710a2d34abf0.png)
 
-## whAt chu doin herehuh huehuehue !!! 
-- 🔭 currently ded
-- 🌱 I’m currently learning nothin :ded:. 
-- 👀 I’m looking for some friends (not relally) who share similar interests (nawh).
-- ✔️ 2022 Goals: wow
-- ⚡ Fun fact: You dumb!
+
+## About Me 
+- 🔭 Pronouns: He/Him
+- 🌱 I’m currently learning C++ 
+- 👀 I’m looking for some friends who share similar interests.
+- ✔️ 2022 Goals: Learn C++
+- ⚡ Fun fact: I love to play Guitar!
 
 ### Connect with me:
 - Discord: Sookeyy#0130
