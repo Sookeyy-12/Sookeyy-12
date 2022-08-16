@@ -11,6 +11,7 @@
 ### Connect with me:
 - Discord: Sookeyy#0130
 - Instagram: so.okeyy
+- Email: thatonesuket@gmail.com
 
 ---
 
