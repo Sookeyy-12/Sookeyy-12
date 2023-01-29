@@ -1,9 +1,6 @@
-
-
-https://user-images.githubusercontent.com/82956207/215346691-67798e19-65f3-4178-b48c-64ae8598829d.mp4
-
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82956207/215347344-b675099a-e5d6-4031-9dfa-3386ef436bf0.gif" height=250px>
+</p>
 
 ## About Me 
 - 🔭 Pronouns: He/Him
