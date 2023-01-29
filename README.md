@@ -1,17 +1,17 @@
-![abtme](https://user-images.githubusercontent.com/82956207/184708354-820f37cc-e977-4976-802f-710a2d34abf0.png)
+![abtme](https://user-images.githubusercontent.com/82956207/215346294-690145bb-017f-40dc-bae8-035b23e188f2.mp4)
 
 
 ## About Me 
 - 🔭 Pronouns: He/Him
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Web Developement along with AI and ML 
 - 👀 I’m looking for some friends who share similar interests.
-- ✔️ 2022 Goals: Learn C++
+- ✔️ 2023 Goals: Create a Personal Website and work in AI and ML field.
 - ⚡ Fun fact: I love to play Guitar!
 
 ### Connect with me:
 - Discord: Sookeyy#0130
 - Instagram: so.okeyy
-- Email: thatonesuket@gmail.com
+- Email: kamboj.suket@gmail.com
 
 ---
 
