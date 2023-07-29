@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82956207/215347344-b675099a-e5d6-4031-9dfa-3386ef436bf0.gif" height=250px>
+  <img src="https://github.com/Sookeyy-12/Sookeyy-12/assets/82956207/623d62ab-5690-4b6a-8a99-9b02fb3ea19e" height=250px>
 </p>
-
 ## About Me 
 - 🔭 Pronouns: He/Him
 - 🌱 I’m currently learning Web Developement along with AI and ML 
