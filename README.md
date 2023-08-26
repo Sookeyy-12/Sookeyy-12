@@ -16,6 +16,6 @@
 
 ---
 
-<img align="left" alt="Sookeyy-12's Github Stats" src="https://github-readme-stats-gold-tau-71.vercel.app/api?username=Sookeyy-12&theme=midnight-purple&show_icons=true"/>
+[![Sookeyy-12's GitHub | Stats](https://stats.quine.sh/Sookeyy-12/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sookeyy-12)
 
 <img align="left" alt="Sookeyy-12's Languages" src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=Sookeyy-12&layout=compact&theme=midnight-purple"/>
