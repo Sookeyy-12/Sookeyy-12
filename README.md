@@ -1,18 +1,24 @@
 <p align="center">
-  <img src="https://github.com/Sookeyy-12/Sookeyy-12/assets/82956207/623d62ab-5690-4b6a-8a99-9b02fb3ea19e" height=250px>
+  <img src="https://github.com/Sookeyy-12/Sookeyy-12/assets/82956207/615ea526-9cfb-49ef-8b59-5203c5537408" width=80%>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,python,tensorflow,pytorch,vscode,visualstudio,unity,blender&theme=dark"/>
+  </a>
 </p>
 
 ## About Me 
 - 🔭 Pronouns: He/Him
-- 🌱 I’m currently learning Web Developement along with AI and ML 
+- 🌱 I’m currently learning Web Development and Exploring the field of Artificial Intelligence
 - 👀 I’m looking for some friends who share similar interests.
-- ✔️ 2023 Goals: Create a Personal Website and work in AI and ML field.
+- ✔️ 2023 Goals: Learn a lot of stuff and start contributing to Open Source.
 - ⚡ Fun fact: I love to play Guitar!
 
 ### Connect with me:
-- Discord: Sookeyy#0130
+- Discord: sookeyy  
 - Instagram: so.okeyy
-- Email: kamboj.suket@gmail.com
+- Email: saikeyy.yt@gmail.com
+- Youtube: <a href="https://www.youtube.com/@sAIkeyy/" target="_blank">sAIkeyy</a>
 
 ---
 
