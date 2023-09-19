@@ -25,3 +25,5 @@
 [![Sookeyy-12's GitHub | Stats](https://stats.quine.sh/Sookeyy-12/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sookeyy-12)
 
 <img align="left" alt="Sookeyy-12's Languages" src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=Sookeyy-12&layout=compact&theme=midnight-purple"/>
+
+![](https://komarev.com/ghpvc/?username=Sookeyy-12&color=orange&style=flat&label=Visitors)
