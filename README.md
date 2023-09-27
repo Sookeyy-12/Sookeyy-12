@@ -27,3 +27,5 @@
 <img align="left" alt="Sookeyy-12's Languages" src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=Sookeyy-12&layout=compact&theme=midnight-purple"/>
 
 ![](https://komarev.com/ghpvc/?username=Sookeyy-12&color=orange&style=flat&label=Visitors)
+
+[![An image of @sookeyy12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sookeyy12)](https://holopin.io/@sookeyy12)
