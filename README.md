@@ -8,8 +8,8 @@
 </p>
 
 ## About Me 
-- 🔭 Pronouns: He/Him
-- 🌱 I’m currently learning Web Development and Exploring the field of Artificial Intelligence
+- 🔭 Pronouns: He/Him.
+- 🌱 I'm currently diving deep into Deep Learning.
 - 👀 I’m looking for some friends who share similar interests.
 - ✔️ 2023 Goals: Learn a lot of stuff and start contributing to Open Source.
 - ⚡ Fun fact: I love to play Guitar!
