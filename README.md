@@ -9,9 +9,9 @@
 
 ## About Me 
 - 🔭 Pronouns: He/Him.
-- 🌱 I'm currently diving deep into Deep Learning.
-- 👀 I’m looking for some friends who share similar interests.
-- ✔️ 2023 Goals: Learn a lot of stuff and start contributing to Open Source.
+- 🌱 Pre-Final year CSE student at KIIT, currently looking for opportunities!
+- 👀 Always love being a part of the community to foster collaborative growth.
+- ✔️ 2024 Goals: Fine-tune myself and get an Internship!!!
 - ⚡ Fun fact: I love to play Guitar!
 
 ### Connect with me:
