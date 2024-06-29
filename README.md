@@ -22,8 +22,6 @@
 
 ---
 
-## #30NitesOfCode:
-
 <p align="center">
   <a href="https://www.codedex.io/@Sookeyy/30-nites-of-code">
     <img src="https://www.codedex.io/api/petStatus?user=Sookeyy" alt="@Sookeyy #30NitesOfCode" />
