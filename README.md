@@ -22,10 +22,18 @@
 
 ---
 
-[![Sookeyy-12's GitHub | Stats](https://stats.quine.sh/Sookeyy-12/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sookeyy-12)
+## #30NitesOfCode:
 
-<img align="left" alt="Sookeyy-12's Languages" src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=Sookeyy-12&layout=compact&theme=midnight-purple"/>
-
-![](https://komarev.com/ghpvc/?username=Sookeyy-12&color=orange&style=flat&label=Visitors)
-
-[![An image of @sookeyy12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sookeyy12)](https://holopin.io/@sookeyy12)
+<p align="center">
+  <a href="https://www.codedex.io/@Sookeyy/30-nites-of-code">
+    <img src="https://www.codedex.io/api/petStatus?user=Sookeyy" alt="@Sookeyy #30NitesOfCode" />
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Sookeyy-12">
+    <img src="https://stats.quine.sh/Sookeyy-12/github?theme=dark" alt="Sookeyy-12's GitHub | Stats" />
+  </a>
+  <img src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=Sookeyy-12&layout=compact&theme=midnight-purple" alt="Sookeyy-12's Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Sookeyy-12&color=orange&style=flat&label=Visitors" alt="Visitors" />
+  <a href="https://holopin.io/@sookeyy12">
+    <img src="https://holopin.me/sookeyy12" alt="An image of @sookeyy12's Holopin badges" />
+  </a>
+</p>
