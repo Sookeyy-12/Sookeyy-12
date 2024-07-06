@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  <a href="https://www.codedex.io/@Sookeyy/30-nites-of-code">
+<!--   <a href="https://www.codedex.io/@Sookeyy/30-nites-of-code">
     <img src="https://www.codedex.io/api/petStatus?user=Sookeyy" alt="@Sookeyy #30NitesOfCode" />
-  </a>
+  </a> -->
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Sookeyy-12">
     <img src="https://stats.quine.sh/Sookeyy-12/github?theme=dark" alt="Sookeyy-12's GitHub | Stats" />
   </a>
