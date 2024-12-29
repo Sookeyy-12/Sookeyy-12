@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,python,java,mysql,firebase,tensorflow,pytorch,vscode,visualstudio,unity,blender,figma,bash,linux,kali &theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,vercel,c,cpp,cs,python,java,mysql,firebase,tensorflow,pytorch,vscode,visualstudio,unity,blender,figma,bash,linux,kali &theme=dark"/>
   </a>
 </p>
 
@@ -11,13 +11,14 @@
 - 🔭 Pronouns: He/Him.
 - 🌱 Pre-Final year CSE student at KIIT, currently looking for opportunities!
 - 👀 Always love being a part of the community to foster collaborative growth.
-- ✔️ 2024 Goals: Fine-tune myself and get an Internship!!!
+- ✔️ 2025 Goals: Build cool Shit, get a job.
 - ⚡ Fun fact: I love to play Guitar!
 
 ### Connect with me:
 - Discord: sookeyy  
 - Instagram: so.okeyy
 - Email: saikeyy.yt@gmail.com
+- Portfolio Page: <a href="https://www.suketkamboj.tech" target="_blank">suketkamboj.tech</a>
 - Youtube: <a href="https://www.youtube.com/@sAIkeyy/" target="_blank">sAIkeyy</a>
 
 ---
