@@ -12,7 +12,7 @@
 - 🌱 Pre-Final year CSE student at KIIT, currently looking for opportunities!
 - 👀 Always love being a part of the community to foster collaborative growth.
 - ✔️ 2025 Goals: Build cool Shit, get a job.
-- ⚡ Fun fact: I love to play Guitar!
+- ⚡ Fun fact: I am actually 21, and not 19, i just haven't updated that picture above.
 
 ### Connect with me:
 - Discord: sookeyy  
