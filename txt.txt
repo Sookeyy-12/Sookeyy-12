@@ -1,0 +1,149 @@
+Here is the detailed workflow in markdown format based on the flowchart visible in the image titled Vault_Processing_1:
+
+
+---
+
+📄 Vault Processing Workflow (ICSDs)
+
+🔹 Start
+
+Start when Maturity Process is complete
+→ PDM/DSC-48756
+
+
+
+---
+
+🔹 Step 1: Maturity Verification
+
+Maturity date = Today, nominal TS + status = "Matured" and ISINs are in BNY Vault
+
+Send MT599 to Concern Depository on Maturity
+→ PDM/DSC-48530
+→ PDM/DSC-48532
+
+
+
+---
+
+🔹 Step 2: Await MT599 from ICSDs
+
+Received the MT599 from both ICSDs for Maturity
+→ PDM/DSC-48897
+→ PDM/DSC-48875
+
+
+
+---
+
+🔹 Step 3: Handle Missing MT599
+
+Create a view for Missing MT599
+
+Chase emails for missing MT599s to ICSDs/ISAs after delay of 3 weeks of Maturity
+
+
+
+---
+
+🔹 Step 4: No Global Notes Found
+
+Note if there are no Global Notes in Vault
+
+GDI automatically sets status to Pending Physical Confirmation
+
+
+
+---
+
+🔹 Step 5: Global Notes Scenario
+
+Issuer prefers to send back the Global Note?
+→ (Decision point)
+
+
+✅ Yes:
+
+Task to confirm send back the Global Note
+→ PDM/DSC-48607
+→ PDM/DSC-48606
+
+
+❌ No:
+
+User physically disposes the Global Notes and confirms note in the Task
+
+Destruction confirmation provided for international or standalone Programs
+→ GDI automatically sets status to Task Completion
+
+
+
+
+---
+
+🔹 Step 6: Partial Receipts Scenario
+
+Only 1 side sends the MT599:
+
+Send a task to manually dispose notes.
+
+PDM/DSC-48592
+
+PDM/DSC-48593
+
+
+
+
+---
+
+🔹 Step 7: Chase Follow-Up
+
+Response received for the chaser?
+(Decision Point)
+
+
+✅ Yes:
+
+User can force close activity with email confirmation from ICSD
+→ PDM/DSC-48591
+
+Stop sending Chase Emails for MT599
+
+
+
+❌ No:
+
+Continue Chase Emails
+
+
+
+---
+
+🔹 Final Steps
+
+User generates the Certificate on GDI and sends to issuer
+→ PDM/DSC-48872
+→ PDM/DSC-48695
+
+
+
+---
+
+🔁 Summary of Key Tasks & IDs
+
+Task	ID(s)
+
+Send MT599 to ICSD	PDM/DSC-48530, PDM/DSC-48532
+Received MT599	PDM/DSC-48897, PDM/DSC-48875
+Create View Missing MT599	PDM/DSC-48756
+Confirm Global Note Return	PDM/DSC-48607, PDM/DSC-48606
+Dispose with Partial MT599	PDM/DSC-48592, PDM/DSC-48593
+Force Close with Email	PDM/DSC-48591
+Send Certificate	PDM/DSC-48872, PDM/DSC-48695
+
+
+
+---
+
+Let me know if you'd like this exported as a .md file or converted to a visual format like a flowchart diagram.
+
