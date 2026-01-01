@@ -1,18 +1,20 @@
 <p align="center">
   <img src="https://github.com/Sookeyy-12/Sookeyy-12/assets/82956207/615ea526-9cfb-49ef-8b59-5203c5537408" width=80%>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,vercel,c,cpp,cs,python,java,mysql,firebase,tensorflow,pytorch,vscode,visualstudio,unity,blender,figma,bash,linux,kali &theme=dark"/>
   </a>
-</p>
+</p> -->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,vercel,c,cpp,cs,python,java,mysql,firebase,tensorflow,pytorch,vscode,visualstudio,unity,blender,figma,bash,linux,kali)](https://skillicons.dev)
 
 ## About Me 
 - 🔭 Pronouns: He/Him.
-- 🌱 Pre-Final year CSE student at KIIT, currently looking for opportunities!
+- 🌱 Final year CSE student at KIIT, currently looking for opportunities!
 - 👀 Always love being a part of the community to foster collaborative growth.
-- ✔️ 2025 Goals: Build cool Shit, get a job.
-- ⚡ Fun fact: I am actually 21, and not 19, i just haven't updated that picture above.
+- ✔️ 2026 Goals: Get a better job, do something big which 2025 me didnt think could be done.
+- ⚡ Fun fact: I am actually 22, and not 19, i just haven't updated that picture above.
 
 ### Connect with me:
 - Discord: sookeyy  
